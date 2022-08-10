@@ -1,0 +1,81 @@
+i{
+    font-size: 18px;
+    color: #006989;
+}
+
+#linkHeader{
+    text-decoration: none;
+    color: inherit;
+}
+
+#colorBg{
+    background-image: linear-gradient(to right, rgb(241, 252, 253) , rgb(226, 241, 243), white);
+}
+
+#topBarText{
+    color: black;
+}
+
+#navbar{
+    font-size: 20px;
+}
+
+#menuHome, #menuAbout, #menuProcedures, #menuContact{
+    color: #007090 !important;
+}
+
+#menuHome.active, #menuAbout.active, #menuProcedures.active, #menuContact.active{
+    color: #000000 !important;
+}
+
+#pageHome{
+    background-image: linear-gradient(to right, rgb(241, 252, 253) , rgb(226, 241, 243), white);;
+}
+
+#homeText{
+    text-align: center;
+    color: #006989;
+}
+
+#homeTitle{
+    font-size:50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.card{
+    background-color: transparent;
+    border: none;
+}
+
+#cardImage{
+    width: 150px;
+    height: auto;
+}
+
+footer{
+    background-color: #a3bac3;
+}
+
+#textFooter{
+    color:#006989
+}
+
+#agende{
+    margin-top: 8px;
+    width: 160px;
+    height: 30px;
+    border: none;
+    background-color: #006989;
+    color:white;
+    border-radius: 5px;
+}
+
+#confirm{
+    margin-top: 8px;
+    width: 160px;
+    height: 30px;
+    border: none;
+    background-color: #006989;
+    color:white;
+    border-radius: 5px;
+}
